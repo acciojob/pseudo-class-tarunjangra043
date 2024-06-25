@@ -1,11 +1,8 @@
-/*  your css code here. If applicable */
 #container {
     margin: 20px;
     padding: 10px;
     border: 1px solid #000;
     position: relative;
-	display: flex;
-	
 }
 
 #container::before {
