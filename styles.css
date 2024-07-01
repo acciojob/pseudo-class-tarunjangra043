@@ -11,11 +11,11 @@
 }
 
 #container::before {
-    content: 'Before Content';
+    content: 'Before Element';
 	left:0;
 }
 
 #container::after {
-    content: 'After Content';
+    content: 'After Element';
 	right:0;
 }
